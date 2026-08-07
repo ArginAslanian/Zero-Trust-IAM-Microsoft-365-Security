@@ -28,4 +28,4 @@ The project focused on reducing identity-based risk, improving authentication se
 
 ## Project Documentation
 
-For a high-level look at the identity hardening, Conditional Access, MFA, SSO, testing, and validation process. view implementation.md.
+For a high-level look at the identity hardening, Conditional Access, MFA, SSO, testing, and validation process, see implementation.md.
